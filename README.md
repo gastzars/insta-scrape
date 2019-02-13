@@ -31,7 +31,7 @@ Now paste the following javascript:
 ```javascript
 var intervalID = window.setInterval(function() {
 
-    if(document.getElementsByClassName("_8mlbc _vbtk2 _t5r8b").length < pictureCount){
+    if(document.getElementsByClassName("v1Nh3 kIKUG  _bz0w").length < pictureCount){
         console.log("scrolled bottom")
         window.scrollTo(0,document.body.scrollHeight);
 
